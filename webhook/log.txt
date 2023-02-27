@@ -1,0 +1,101 @@
+Array
+(
+    [update_id] => 782616788
+    [callback_query] => Array
+        (
+            [id] => 2009613977149522806
+            [from] => Array
+                (
+                    [id] => 467899715
+                    [is_bot] => 
+                    [first_name] => R898
+                    [username] => Renat898
+                    [language_code] => ru
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 591
+                    [from] => Array
+                        (
+                            [id] => 5217959204
+                            [is_bot] => 1
+                            [first_name] => chat widget support
+                            [username] => widgetSupportBot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => -1001787873381
+                            [title] => test_channel Chat
+                            [type] => supergroup
+                        )
+
+                    [date] => 1660213160
+                    [reply_to_message] => Array
+                        (
+                            [message_id] => 585
+                            [from] => Array
+                                (
+                                    [id] => 777000
+                                    [is_bot] => 
+                                    [first_name] => Telegram
+                                )
+
+                            [sender_chat] => Array
+                                (
+                                    [id] => -1001450484836
+                                    [title] => OPENHTML
+                                    [type] => channel
+                                )
+
+                            [chat] => Array
+                                (
+                                    [id] => -1001787873381
+                                    [title] => test_channel Chat
+                                    [type] => supergroup
+                                )
+
+                            [date] => 1660212632
+                            [edit_date] => 1660212698
+                            [forward_from_chat] => Array
+                                (
+                                    [id] => -1001450484836
+                                    [title] => OPENHTML
+                                    [type] => channel
+                                )
+
+                            [forward_from_message_id] => 393
+                            [is_automatic_forward] => 1
+                            [forward_date] => 1660212629
+                            [text] => СЕССИЯ 21
+
+Статус: ответ получен ✅️
+                        )
+
+                    [text] => dfgdfgdf
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => Показать, что отвечаю
+                                                    [callback_data] => {"mtd":"setProccess","sid":"21"}
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => -3193980440304487252
+            [data] => {"mtd":"setProccess","sid":"21"}
+        )
+
+)
